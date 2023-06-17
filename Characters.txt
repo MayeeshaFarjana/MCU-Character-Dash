@@ -1,0 +1,331 @@
+Ajak
+Algrim
+Kurse
+Ammit
+Ancient One
+Aneka
+Arishem
+Attuma
+Ayesha
+Ayo
+Hunter B-15
+Nakia Bahadir
+Bruce Banner
+Hulk
+Bucky Barnes
+Winter Soldier
+White Wolf
+Clint Barton
+Hawkeye
+Ronin
+Laura Barton
+Georges Batroc
+Quentin Beck
+Mysterio
+Yelena Belova
+Eleanor Bishop
+Kate Bishop
+Emil Blonsky
+Abomination
+Elsa Bloodstone
+Verussa Bloodstone
+Ralph Bohner
+Blackagar Boltagon
+Black Bolt
+Mallory Book
+Isaiah Bradley
+Jackson Brice
+Betty Brant
+Shocker
+Eddie Brock
+Venom
+Sonny Burch
+Carina
+Bruno Carrelli
+Peggy Carter
+Mitchell Carson
+Sharon Carter
+Agent 13
+Power Broker
+America Chavez
+Helen Cho
+Clea
+P. Cleary
+Curt Connors
+Lizard
+Cosmo the Spacedog
+Phil Coulson
+Darren Cross
+Yellowjacket
+M.O.D.O.K.
+Carol Danvers
+Captain Marvel
+Dave
+Aaron Davis
+Valentina Allegra de Fontaine
+Death Dealer
+Rhomann Dey
+Max Dillon
+Electro
+Dormammu
+Drax
+Dreykov
+Antonia Dreykov
+Taskmaster
+Druig
+Dum Dum Dugan
+Jack Duquesne
+Ego
+Eitri
+Layla El-Faouly
+Scarlet Scarab
+Matthew Ellis
+Eros
+Starfox
+Abraham Erskine
+Christine Everhart
+Fandral
+Wilson Fisk
+Kingpin
+John Flynn
+Bill Foster
+Jane Foster
+Mighty Thor
+Frigga
+Nick Fury
+Mac Gargan
+Gamora
+Gilgamesh
+Corvus Glaive
+Gorr
+The God Butcher
+Grandmaster
+Groot
+Justin Hammer
+Maya Hansen
+Agatha Harkness
+Roger Harrington
+Arthur Harrow
+Tyler Hayward
+Heimdall
+Hela
+Goddess of Death
+Hercules
+High Evolutionary
+Maria Hill
+Happy Hogan
+Hogun
+Lemar Hoskins
+Battlestar
+Howard the Duck
+Ikaris
+J. Jonah Jameson
+Edwin Jarvis
+Jentorra
+Jon Jon
+MJ
+Kaecilius
+Kamran
+Kang the Conqueror
+Kareem
+Red Dagger
+Katy
+Kazimierz Kazimierczak
+Harley Keener
+Kamala Khan
+Ms. Marvel
+Khonshu
+Aldrich Killian
+Kingo
+Ulysses Klaue
+Cameron Klein
+Korath
+Korg
+Kro
+Korath
+Krylar
+Kurt
+Cassie Lang
+Scott Lang
+Ant-Man
+Laufey
+Ned Leeds
+Darcy Lewis
+Liz
+List
+Maya Lopez
+Loki
+Luis
+Lylla
+Mary MacPherran
+Titania
+Makkari
+Malekith
+Mantis
+Mar-Vell
+Flint Marko
+Sandman
+Martinex
+Phineas Mason
+Rick Mason
+Pietro Maximoff
+Ebony Maw
+Wanda Maximoff
+Scarlet Witch
+M'Baku
+Proxima Midnight
+Mobius M. Mobius
+Miek
+Anton Mogart
+Karl Mordo
+Karli Mordhau
+Matt Murdock
+Daredevil
+Najma
+Nakia
+Namor
+Namora
+N'Jadaka
+Killmonger
+Nebula
+N'Jobu
+Kraglin Obfonteri
+Cull Obsidian
+Otto Octavius
+Doctor Octopus
+Odin
+Okoye
+Stakar Ogord
+Norman Osborn
+Green Goblin
+The Other
+Christine Palmer
+Jonathan Pangborn
+May Parker
+Peter Parker
+Spider-Man
+Karun Patel
+Phastos
+Todd Phelps
+Chester Phillips
+Alexander Pierce
+Pip the Troll
+Pepper Potts
+Pug
+Hank Pym
+Meredith Quill
+Peter Quill
+Star-Lord
+Irani Rael
+Nova Prime
+Maria Rambeau
+Ramonda
+Monica Rambeau
+Nikki Ramos
+Razor Fist
+Reed Richards
+James Rhodes
+War Machine
+Iron Patriot
+Ravonna Renslayer
+William Ginter Riva
+Jack Rollins
+Rocket
+Steve Rogers
+Captain America
+Natasha Romanoff
+Black Widow
+Ronan the Accuser
+Betty Ross
+Everett K. Ross
+Thaddeus Ross
+Brock Rumlow
+Jack Russell
+Werewolf by Night
+Johann Schmidt
+Red Skull
+Herman Schultz
+Sersi
+Erik Selvig
+Xu Shang-Chi
+Alexei Shostakov
+Red Guardian
+Shuri
+Black Panther
+Sif
+Jasper Sitwell
+Skaar
+Skurge
+Trevor Slattery
+Soren
+Marc Spector
+Moon Knight
+Sprite
+Obadiah Stane
+Howard Stark
+Morgan Stark
+Tony Stark
+Iron Man
+Ava Starr
+Ghost
+Samuel Sterns
+Stern
+Stephen Strange
+Wolfgang von Strucker
+Surtur
+Sylvie
+Talos
+Taserface
+Taweret
+T'Chaka
+T'Challa
+Ted
+Thanos
+Thena
+Flash Thompson
+Taneleer Tivan
+Collector
+Thor
+Adrian Toomes
+Vulture
+Joaquin Torres
+Yondu Udonta
+Ultron
+Valkyrie
+Hope van Dyne
+Wasp
+Janet van Dyne
+Anton Vanko
+Ivan Vanko
+Whiplash
+Volstagg
+Vision
+Melina Vostokoff
+John Walker
+Jennifer Walters
+She-Hulk
+Adam Warlock
+Watcher
+Raza al-Wazar
+Xu Wenwu
+Nicodemus West
+Dane Whitman
+Riri Williams
+Ironheart
+Sam Wilson
+Falcon
+Sarah Wilson
+W'Kabi
+Wong
+Jimmy Woo
+Charles Xavier
+Xu Xialing
+Ying Li
+Ying Nan
+Ho Yinsen
+Yon-Rogg
+Helmut Zemo
+Zeus
+Zuri
+Arnim Zola
+Iron Fist
